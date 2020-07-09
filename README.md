@@ -7,6 +7,8 @@ Library Management System project with many classes included.The project can wor
 
 The best solution of the project is to upload in rar. Because this is finished working project  on eclipse ide. 
 
+Another solution:  move all png and gif files to lms folder. Then, create a bin folder> move lms folder inside then go back. You will have bin and src folders. Create new folder then move all of them inside. Then run eclipse, import the folder then run  java folders. They are connected to each other.
+
 
 
 
